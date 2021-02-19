@@ -522,7 +522,7 @@ footer {
     top: 50%;
     -webkit-transform: translateY(-50%);
     transform: translateY(-50%);
-    /*margin-left: 300px;*/
+    margin-left: 300px;
 	margin-left: 0 auto;
     padding: 15px;
 }
